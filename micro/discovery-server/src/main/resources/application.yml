@@ -1,0 +1,6 @@
+eureka:
+  instance:
+    hostnane: Localhost
+  client:
+    register-with-eureka: false
+    fetch-registry: false
